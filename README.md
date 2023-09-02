@@ -18,6 +18,6 @@ For this project we will consider as standard just 3 kinds of stub template. Thi
 
 ## Results
 
-As result, it was possible to detect all 20 examples proposed
+As result, it was possible to detect all 20 examples proposed. After finding the highest correlation, the correspondant stub template is painted over the original image so that we can assure that is really found what we want and where it really is in the image. 
 
 ![result](https://github.com/Btwo2/ProofOfDelivery/assets/110456965/8f8588ed-6e82-4c5e-9895-87e47e3e166d)
