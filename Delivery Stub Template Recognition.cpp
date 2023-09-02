@@ -1,4 +1,4 @@
-//Delivery Stub Image Recognition.cpp
+//Delivery Stub Template Recognition.cpp
 #include <cekeikon.h>
 int main(int argc, char** argv) {
 	if (argc!=3) {
